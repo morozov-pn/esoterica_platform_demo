@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# Виртуальные окружения и секреты
+.venv/
+venv/
+.env
+.env.*
+
+# PyCharm / JetBrains
+.idea/
+
+# Операционные системы
+.DS_Store
+Thumbs.db
+
